@@ -24,13 +24,13 @@ When the button is pressed, the circuit generates a random number between **1 an
 ## 📼 Demo
 
 <p align="center">
-  <img src="demo.gif" width="50%">
+  <img src="gifs/demo.gif" width="50%">
 </p>
 
 ## 🔗 Tinkercad
 
 <p align="center">
-  <img src="simulation.gif" width="100%">
+  <img src="gifs/simulation.gif" width="50%">
 </p>
 
 >>> *(https://www.tinkercad.com/things/4r3ikkPLNBz-digital-dice-with-7-segment)*
