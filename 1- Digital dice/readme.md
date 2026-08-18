@@ -33,7 +33,7 @@ When the button is pressed, the circuit generates a random number between **1 an
   <img src="gifs/simulation.gif" width="50%">
 </p>
 
->>> *(https://www.tinkercad.com/things/4r3ikkPLNBz-digital-dice-with-7-segment)*
+> *(https://www.tinkercad.com/things/4r3ikkPLNBz-digital-dice-with-7-segment)*
 
 ## 💻 Source Code
 
